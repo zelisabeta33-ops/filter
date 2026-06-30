@@ -10,7 +10,6 @@
     width: 200px;
     height: 150px;
     position: relative;
-    border-radius: 1px solid #ccc;
     cursor: pointer;
 }
 .bar{
